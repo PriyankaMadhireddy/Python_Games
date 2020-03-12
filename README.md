@@ -5,6 +5,6 @@ Sudoku solver:
 2048:
   This is a user interactive game. If you want to play this game copy paste the code into python compiler.
   
-Tic toc toe:
+Tic tac toe:
   This is a user interactive game. If you want to play this game copy paste the code into python compiler.
  
